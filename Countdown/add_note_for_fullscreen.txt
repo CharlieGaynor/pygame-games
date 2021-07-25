@@ -1,0 +1,6 @@
+Please note that this program must be run on a 1080p monitor.
+
+If you're on a laptop , please set the zoom size to 100% in settings - 
+On windows 10: Settings --> system ---> Display --> Scale and layout --> 100%.
+Linux: Probably something on command line. Try looking on stack exchange?
+On mac: Open browser, go to amazon, buy a non-apple pc

@@ -1,0 +1,21 @@
+Controls: 1-7 reveals the answer in that position
+'X' and 'V' control the crosses for each team respectively
+
+questions for ff:
+
+Reasons to wake up at night
+
+Name something in ur kitchen u hope no-one accidentaly drinks
+
+Name something that aches
+
+Name something a man would rather admit to his friends than his wife
+
+Name something a dog can get away with but a person can't
+
+  word_set = [['Bathroom','Baby','Bad dream','Noise','Temperature','Hunger','In the mood'],
+    ['Soap','Vinegar','Cooking oil','Soy Sauce','Sink juice',' ',' '],
+    ['Head','Stomach','Back','Tooth','Muscle','Knee','Ear'],
+    ["She's a bad cook","Doesn't like in-laws","Doesn't like wife's friends","Adult content habits","In debt","Checked out another woman","Quit job","Kid is ugly"],
+    ['Poo/Pee in public','Humping','Licking stangers','Barking','Head out of car window','',' ']]
+    point_set =[[24,19,16,13,12,6,6],[46,30,16,4,2,0,0],[34,33,11,7,6,3,2],[26,22,27,10,5,4,4,3],[33,23,18,14,2,0,0]]
