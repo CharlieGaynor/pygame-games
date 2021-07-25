@@ -1,6 +1,9 @@
 # pygame-games
 A collection of games I made with pygame!
 
+Running seems to work fine from an IDE or via the console.
+
+* There's sometimes a glitch in the timing systems due to being dependent on frame rate. If your computer is a bit slow, you might experience slow timers
 
 -------------
 Tic Tac Toe
